@@ -70,6 +70,6 @@ transportadores 1 ──< fretes >── 1 enderecos (origem)
 
 O projeto foi desenvolvido com Git, com commits a cada etapa (estrutura, banco, cadastros, fretes, relatórios e documentação).
 
-## 👤 Autor
+## 👤 Autor Ryan Antonio Dos Reis De Oliveira
 
 Projeto acadêmico — Fundamentos de Programação para Internet (UNIPAR EAD).
