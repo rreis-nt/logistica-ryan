@@ -1,0 +1,8 @@
+body { min-height: 100vh; display: flex; flex-direction: column; }
+main { flex: 1; }
+.card { border: 0; box-shadow: 0 .125rem .5rem rgba(0,0,0,.08); }
+.card-stat .display-6 { font-weight: 700; }
+.table thead th { white-space: nowrap; }
+.form-label { font-weight: 500; }
+.required::after { content: " *"; color: #dc3545; }
+.item-row { background: #fff; }
